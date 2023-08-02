@@ -7,6 +7,8 @@ const largeColor = document.getElementById('large-hand-color');
 const secondColor = document.getElementById('second-hand-color');
 const button = document.getElementById('save-btn');
 
+
+
 function clock() {
     const now = new Date();
     const context = canvas.getContext('2d');
@@ -121,6 +123,5 @@ function saveImage() {
 }
 
 button.addEventListener('click', saveImage);
-
 
 
