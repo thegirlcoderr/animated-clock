@@ -10,7 +10,7 @@
 
 ### Overview
 
-The "Animated Clock" project is a JavaScript application that creates an interactive and customizable analog clock displayed on an HTML5 canvas.With the prsence of animation frames, the clock's hands move smoothly to reflect the current time, providing an engaging and visually delightful experience for users. The project also provides users with the ability to adjust the clock's appearance and save it as an image.
+The "Animated Clock" project is a JavaScript application that creates an interactive and customizable analog clock displayed on an HTML5 canvas. With the presence of animation frames, the clock's hands move smoothly to reflect the current time, providing an engaging and visually delightful experience for users. The project also provides users with the ability to adjust the clock's appearance and save it as an image.
 
 
 
