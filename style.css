@@ -3,8 +3,20 @@
 body {
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
+  margin: 0;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
+.clock-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
 button {
   background: #333;
   color: #fff;
@@ -30,4 +42,16 @@ button {
 label {
   margin-right: 10px;
   font-weight: bold;
+}
+
+.canvas-container {
+  width: 500px; /* Adjust the width as needed */
+  height: 500px; /* Adjust the height as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-left: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  background-color: #f4f4f4;
+  position: relative;
 }
