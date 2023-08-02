@@ -1,6 +1,5 @@
 # Animated-Clock
 
-Your Vanilla JS Hub for Movies and TV Shows
 - Live Site URL: [Click here to check it out!](https://animatedclock-thegirlcoder.netlify.app/)
 - ### Table of contents
   - [Overview](#overview)
@@ -18,11 +17,10 @@ The "Animated Clock" project is a JavaScript application that creates an interac
 
 ### Features
 
-- Display popular movies and TV shows.
-- View detailed information about individual movies and TV shows.
-- Search for movies and TV shows by title.
-- Pagination support for search results.
-- Responsive design for various devices.
+- Customizable Appearance: Users can choose colors for the clock face, border, hour lines, minute lines, hour hand, minute hand, and second hand. The real-time color updates give users full control over the clock's aesthetics.
+- Save as Image: The "Save" button enables users to save their customized clock as an image file (PNG). When clicked, the clock's current state is converted into a data URL and made available for download.
+- Real-Time Updates: The clock displays the current time in real-time, providing a functional timekeeping tool along with visual appeal.
+
 
 
 ### Technologies Used
