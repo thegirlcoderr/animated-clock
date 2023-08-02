@@ -68,8 +68,6 @@ function clock() {
     const mins = now.getMinutes();
     const secs = now.getSeconds();
 
-    // console.log(`${hr}: ${mins}: ${secs}`);
-
     // To draw hour hand
     context.save();
     context.rotate((Math.PI / 6) * hr + (Math.PI / 360) * mins + (Math.PI / 21600) * secs);
