@@ -45,8 +45,6 @@ label {
 }
 
 .canvas-container {
-  width: 500px; /* Adjust the width as needed */
-  height: 500px; /* Adjust the height as needed */
   display: flex;
   justify-content: center;
   align-items: center;
