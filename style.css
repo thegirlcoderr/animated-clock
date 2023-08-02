@@ -41,6 +41,6 @@ label {
 
   .card {
     max-width: 90%;
-    bottom: 10px;
+    margin-top: 40px;
   }
 }
